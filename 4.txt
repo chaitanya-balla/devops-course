@@ -1,0 +1,1 @@
+test on clone folder to push it to the remote directory  without addigin origin
